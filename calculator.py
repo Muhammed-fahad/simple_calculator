@@ -31,6 +31,7 @@ def button_equal():
     if math == "division":
         e.insert(0, f_num / int(second_number))
         print("fahad")
+        print("hello")
 
 
 # addision function
